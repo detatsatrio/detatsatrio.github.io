@@ -3,7 +3,7 @@ $con_name = $_POST['con_name'];
 $con_email = $_POST['con_email'];
 $con_message = $_POST['con_message'];
 
-$to = 'detatsatrio@outlook.com';
+$to = 'detatsatrio@if.undip.ac.id';
 $subject = 'Proposal Project';
 
 $message = '<strong>Name : </strong>'.$con_name.'<br/><br/>';
